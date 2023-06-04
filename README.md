@@ -1,4 +1,4 @@
-# CodeAlpha_LandingPage
+# LandingPage_Project
 A landing page is a standalone web page, created specifically for a marketing or advertising campaign. It’s where a visitor “lands” after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web.
 
 Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (or CTA, for short).
@@ -15,4 +15,7 @@ Here I have done a Course Registration Landing Page. A specific Course Launching
 
 1. Header : includes Company(here I have defined a sample comapny), search bar, and some menu options.
 2. About course : It contains breif information about course along with registration form.
-3. 
+3. Importance of Course : It contains industrial demand for this course and advantages
+4. Skills : Includes skills that a person can gain while learning this course. 
+5.  Ratings : It is the CTA key performance indicator where a customer focus on. It includes ratings from different sources and previous customers experinces.
+6.  Footer Section : It highlights about the company along with its other services. 
