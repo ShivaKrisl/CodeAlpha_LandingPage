@@ -19,3 +19,5 @@ Here I have done a Course Registration Landing Page. A specific Course Launching
 4. Skills : Includes skills that a person can gain while learning this course. 
 5.  Ratings : It is the CTA key performance indicator where a customer focus on. It includes ratings from different sources and previous customers experinces.
 6.  Footer Section : It highlights about the company along with its other services. 
+
+Note = Here I have used some images that are placed seperately in 'images' folder.
